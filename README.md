@@ -7,7 +7,7 @@ Pod Scheduling Errors
 ### First I got only system related metrics like only for CPU and memory, but I need kube-state-metrics. So I followed one article.
 
 Solution: 
-    
+    https://devopscube.com/setup-kube-state-metrics/
 
 
 ## Service Discovery Issues:
